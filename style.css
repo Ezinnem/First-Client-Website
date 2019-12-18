@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(241, 252, 248);
+  color: rgb(51, 50, 50);
+  text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+  font-size: xx-large;
+  color: black;
+  text-transform: uppercase;
+}
+#submit {
+  background-color: rgb(245, 143, 109);
+  color: black;
+  font-size: large;
+}
+#submit:hover {
+  background-color: rgb(7, 172, 43);
+  color: black;
+  font-size: larger;
+}
